@@ -1,0 +1,4 @@
+*.exe
+/SFSS_sever.xcodeproj/
+/bin/
+
